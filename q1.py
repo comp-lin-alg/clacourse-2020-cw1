@@ -1,4 +1,4 @@
 from numpy import *
 from cla_utils import *
 
-A = loadtxt('values.dat')
+A = load('values.npy')
